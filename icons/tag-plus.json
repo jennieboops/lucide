@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "jennieboops"
+  ],
+  "tags": [
+    "label",
+    "badge",
+    "ticket",
+    "mark",
+    "add",
+    "create",
+    "new",
+    "plus"
+  ],
+  "categories": [
+    "account",
+    "shopping"
+  ]
+}
